@@ -32,6 +32,8 @@ const BasicPanGesture = () => {
       translateY.value = startY.value + e.translationY;
     })
     .onEnd((e) => {
+      //   c = √(a² + b²)
+      //   distance = √(translateX² + translateY²)
       const distance = Math.sqrt(translateX.value ** 2 + translateY.value ** 2);
       if (distance < CIRCLE_RADIUS + SIZE / 2) {
         translateX.value = withSpring(0);
