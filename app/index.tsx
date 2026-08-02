@@ -1,3 +1,3 @@
-import { App } from "@/src/screen-groups/App";
+import BasicPanGesture from "@/src/screen-groups/BasicPanGesture";
 
-export default App;
+export default BasicPanGesture;
