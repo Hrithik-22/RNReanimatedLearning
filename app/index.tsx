@@ -1,3 +1,3 @@
-import StackedCards from "@/src/screen-groups/StackedCards";
+import StoryListUI from "@/src/screen-groups/StoryListUI";
 
-export default StackedCards;
+export default StoryListUI;
