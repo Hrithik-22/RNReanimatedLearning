@@ -1,3 +1,3 @@
-import BasicPanGesture from "@/src/screen-groups/BasicPanGesture";
+import StackedCards from "@/src/screen-groups/StackedCards";
 
-export default BasicPanGesture;
+export default StackedCards;
