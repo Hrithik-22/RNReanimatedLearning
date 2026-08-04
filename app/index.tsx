@@ -1,3 +1,3 @@
-import StoryListUI from "@/src/screen-groups/StoryListUI";
+import BouncySquare from "@/src/screen-groups/BouncySquare";
 
-export default StoryListUI;
+export default BouncySquare;
