@@ -1,4 +1,4 @@
-import PanGesture from "@/src/screen-groups/PanGesture";
+import SpatialGesture from "@/src/screen-groups/SpatialGesture";
 import { gestureHandlerRootHOC } from "react-native-gesture-handler";
 
-export default gestureHandlerRootHOC(PanGesture);
+export default gestureHandlerRootHOC(SpatialGesture);
