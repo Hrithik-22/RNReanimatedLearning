@@ -1,4 +1,3 @@
-import SpatialGesture from "@/src/screen-groups/SpatialGesture";
-import { gestureHandlerRootHOC } from "react-native-gesture-handler";
+import ParallelAnimation from "@/src/screen-groups/ParallelAnimation";
 
-export default gestureHandlerRootHOC(SpatialGesture);
+export default ParallelAnimation;
