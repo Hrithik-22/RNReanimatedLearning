@@ -1,3 +1,3 @@
-import ParallelAnimation from "@/src/screen-groups/ParallelAnimation";
+import LayoutAnimation from "@/src/screen-groups/LayoutAnimation";
 
-export default ParallelAnimation;
+export default LayoutAnimation;
