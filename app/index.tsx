@@ -1,3 +1,3 @@
-import LayoutAnimation from "@/src/screen-groups/LayoutAnimation";
+import LayoutAnimationSecond from "@/src/screen-groups/LayoutAnimationSecond";
 
-export default LayoutAnimation;
+export default LayoutAnimationSecond;
