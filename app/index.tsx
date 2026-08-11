@@ -1,3 +1,3 @@
-import LayoutAnimationSecond from "@/src/screen-groups/LayoutAnimationSecond";
+import FamilyNumberInput from "@/src/screen-groups/FamilyNumberInput";
 
-export default LayoutAnimationSecond;
+export default FamilyNumberInput;
