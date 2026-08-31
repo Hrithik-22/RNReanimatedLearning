@@ -1,3 +1,3 @@
-import FamilyNumberInput from "@/src/screen-groups/FamilyNumberInput";
+import AnimatedTextTut from "@/src/screen-groups/AnimatedTextTut";
 
-export default FamilyNumberInput;
+export default AnimatedTextTut;
